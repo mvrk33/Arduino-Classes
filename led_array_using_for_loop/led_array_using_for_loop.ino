@@ -1,7 +1,7 @@
 void setup() {
 for(int i=8;i<=13;i++)
 {
-  pinMode(i,OUTPUT);
+  pinMode(i,OUTPUT); //defines digital pins from 8-13 as outputs
   }
 }
 
